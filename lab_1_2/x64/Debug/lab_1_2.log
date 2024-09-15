@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_1\Source\lab_1_2\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Truth.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_1\Source\lab_1_2\Truth.cpp(78,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_1\Source\lab_1_2\Truth.cpp(92,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  lab_1_2.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_1\Source\lab_1_1\x64\Debug\lab_1_2.exe

@@ -1,0 +1,4 @@
+﻿  UnitTest2.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_1\Source\lab_1_2\Truth.cpp(78,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_1\Source\lab_1_2\Truth.cpp(92,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  UnitTest2.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_1\Source\lab_1_1\x64\Debug\UnitTest2.dll
