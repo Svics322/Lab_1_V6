@@ -10,7 +10,7 @@ void Truth_6::calcDisjunction() {
 			c[i] = '0';
 	}
 	this->setX(c);
-	cout << this->x << endl;
+	cout << "OR:  " << this->x << endl;
 }
 
 void Truth_6::calcConjunction() {
@@ -23,7 +23,7 @@ void Truth_6::calcConjunction() {
 			c[i] = '0';
 	}
 	this->setY(c);
-	cout << this->y << endl;
+	cout << "AND: " << this->y << endl;
 }
 
 void Truth_6::calcExcConjunction() {
@@ -39,7 +39,7 @@ void Truth_6::calcExcConjunction() {
 			c [i] = '0';
 	}
 	this->setZ(c);
-	cout << this->y << endl;
+	cout << "XOR: " << this->z << endl;
 }
 
 bool Truth_6::isValid(string input) {
